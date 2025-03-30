@@ -7,15 +7,7 @@
 
   
 使用:  
-方法1:
-1. 安裝ffmpeg並將其加入path中。
-2. 下載exe檔案並運行
-
-方法2:
 1. 安裝python
 2. 安裝運行所需套件
 3. 安裝ffmpeg並將其加入path中。
-4. 下載程式碼並運行
 
-下載:
-https://drive.google.com/file/d/1t7_9ZDzWVYl34BCRCOHP8-i0tFWrCNJZ/view?usp=sharing
